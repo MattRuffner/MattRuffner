@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**MattRuffner/MattRuffner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working with Vestergaard on malaria net usage optimization
@@ -15,4 +12,9 @@ Here are some ideas to get you started:
  									    </a>
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Grew up in France, Astro-physics major in undergrad, aspiring to be proficient in as many subjects as possible
+
+<!--
+**MattRuffner/MattRuffner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 -->
