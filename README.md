@@ -9,8 +9,6 @@
 										<span class="label">Email</span>
 									</a>
                     
-                    <img src="https://wangyikang1996.github.io/img/medium.png" style="width: 16px;" alt="">
-                </a>
 - 😄 Pronouns: he/him/his
 - ⚡ Fun facts: Grew up in France, Astro-physics major in undergrad, aspiring to be proficient in as many subjects as possible
 
