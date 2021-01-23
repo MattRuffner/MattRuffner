@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Hello world, I'm Matt 👋
 
 - 🔭 I’m currently working with Vestergaard on malaria net usage optimization
 - 🌱 I’m currently learning Cognitive Computing, Learning Structures/Time Series, Blockchain, Social Media Analytics, Stochastic Control & Optimization
