@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on malaria net usage improvement
+- 🔭 I’m currently working with Vestergaard on malaria net usage optimization
 - 🌱 I’m currently learning Cognitive Computing, Learning Structures/Time Series, Blockchain, Social Media Analytics, Stochastic Control & Optimization
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
     										<span class="label">LinkedIn</span>
  									    </a>
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Grew up in France, Astro-physics major in undergrad, aspiring to be proficient in as many subjects as possible
 -->
