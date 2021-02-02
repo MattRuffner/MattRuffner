@@ -1,6 +1,6 @@
 ### Hello world, I'm Matt 👋
 
-- 🔭 I’m currently working with <a href="https://vestergaard.com">Vestergaard</a> on malaria net usage optimization
+- 🔭 I’m currently working with <a href="https://vestergaard.com">Vestergaard</a> on malaria net (ITN) usage optimization
 - 🌱 I’m currently learning Cognitive Computing, Learning Structures/Time Series, Blockchain, Social Media Analytics, Stochastic Control & Optimization
 - 💬 Ask me about the math that works behind the scenes on ML models
 - 📫 How to reach me: <a href="linkedin.com/in/matthew-ruffner-data-analytics" class="icon fa-linkedin">
