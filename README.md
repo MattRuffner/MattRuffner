@@ -12,8 +12,7 @@
 										<span class="label">Email</span>
 									</a>
 
-<!--
-**MattRuffner/MattRuffner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## School Projects
 
-
--->
+# <a href="https://github.com/MattRuffner/UT-Austin-Repository/tree/master/Advanced%20Predictive%20Modeling%20(python)">Advanced Predictive Modeling (Python)</a>
+- One of my most rigorous coding classes. Included is work on 
