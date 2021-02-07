@@ -33,3 +33,8 @@
 - Time series analysis and forecasting models
 <br>
 <br>
+<a href="https://github.com/MattRuffner/UT-Austin-Repository/tree/master/Text%20Analytics%20(Python)">Text Analytics (Python)</a> 
+<br>
+- Web scraping, NLTK, sentiment analysis, lift analysis, recommender systems, word vectors, word embeddings, and more!
+<br>
+<br>
