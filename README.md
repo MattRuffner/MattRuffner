@@ -13,7 +13,7 @@
 									</a>
 
 ## School Projects
-
+<br>
 <a href="https://github.com/MattRuffner/UT-Austin-Repository/tree/master/Advanced%20Predictive%20Modeling%20(python)">Advanced Predictive Modeling (Python)</a> <br>
 - One of my most rigorous coding classes. Included is work on a variety of models, data imputation, data pre-processing, PCA and feature selection, pipelines, and much more!
 <br>
