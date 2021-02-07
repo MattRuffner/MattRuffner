@@ -11,7 +11,7 @@
  									    </a> , <a href="matthew.ruffner@utexas.edu" class="icon fa-envelope">
 										<span class="label">Email</span>
 									</a>
-<br>
+
 ## School Projects
 <br>
 <a href="https://github.com/MattRuffner/UT-Austin-Repository/tree/master/Advanced%20Predictive%20Modeling%20(python)">Advanced Predictive Modeling (Python)</a> <br>
