@@ -27,5 +27,5 @@
 <br>
 <a href="https://github.com/MattRuffner/UT-Austin-Repository/tree/master/Supply%20Chain%20Analytics%20(R)">Supply Chain Analytics (R)</a> 
 <br>
--
+- Time series analysis and forecasting models
 <br>
