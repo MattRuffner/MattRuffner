@@ -14,8 +14,9 @@
 
 ## School Projects
 
-<a href="https://github.com/MattRuffner/UT-Austin-Repository/tree/master/Advanced%20Predictive%20Modeling%20(python)">Advanced Predictive Modeling (Python)</a>
-- One of my most rigorous coding classes. Included is work on  <br>
+<a href="https://github.com/MattRuffner/UT-Austin-Repository/tree/master/Advanced%20Predictive%20Modeling%20(python)">Advanced Predictive Modeling (Python)</a> <br>
+- One of my most rigorous coding classes. Included is work on  
+<br>
 <a href="https://github.com/MattRuffner/UT-Austin-Repository/tree/master/Data%20Management%20(SQL)">Data Management (SQL)</a>  <br>
 -
 <a href="https://github.com/MattRuffner/UT-Austin-Repository/tree/master/Predictive%20Modeling%20(R)">Predictive Modeling (R)</a>  <br>
