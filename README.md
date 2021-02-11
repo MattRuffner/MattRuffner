@@ -1,4 +1,4 @@
-### Hello world, I'm Matt 👋
+## Hello world, I'm Matt 👋
 
 - 😄 Pronouns: he/him/his
 - 🔭 I’m currently working with <a href="https://vestergaard.com">Vestergaard</a> on malaria net (ITN) usage optimization
