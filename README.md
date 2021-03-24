@@ -38,3 +38,6 @@
 - Web scraping, NLTK, sentiment analysis, lift analysis, recommender systems, word vectors, word embeddings, and more!
 <br>
 <br>
+<a href="https://github.com/MattRuffner/UT-Austin-Repository/tree/master/Cognitive%20Computing%20(Python)">Cognitive Computing (Python)</a> 
+<br>
+- Deep learning, Fast.ai (PyTorch extension), gradient descent, neural networks galore!
