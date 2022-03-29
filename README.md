@@ -7,7 +7,7 @@
 - ⚡ Fun facts: Grew up in France, <a href="https://guide.wisc.edu/undergraduate/letters-science/astronomy/astronomy-physics-bs/">Astro-physics</a> major in undergrad, love to rock climb
 - 📫 How to reach me: <a href="linkedin.com/in/matthew-ruffner-data-analytics" class="icon fa-linkedin">
     										<span class="label">LinkedIn</span>
- 									    </a> , <a href="matthew.ruffner@utexas.edu" class="icon fa-envelope">
+ 									    </a> , <a href="matthewruffner@gmail.com" class="icon fa-envelope">
 										<span class="label">Email</span>
 									</a>
 
