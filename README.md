@@ -8,9 +8,9 @@
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/matthew-ruffner-data-analytics" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> 
   </a> , 								
-						<a icon iconClass="fas fa-envelope fa-3x" linkClass="email" style="margin-right: 50px;"link="matthewruffner@gmail.com"> </a>
+						 icon iconClass="fas fa-envelope fa-3x" linkClass="email" style="margin-right: 50px;"link="matthewruffner@gmail.com"> 
 									<a href="matthewruffner@gmail.com" rel="nofollow noreferrer">
-									<span class="label">Email</span>
+									<span class="label" link="matthewruffner@gmail.com">Email</span>
 									</a>
 									<p>
 
