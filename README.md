@@ -1,7 +1,7 @@
 ## Hello world, I'm Matt 👋
 
 - 😄 Pronouns: he/him
-- 🔭 I’m currently working with <a href="https://ankura.com">Ankura</a> as an Associate
+- 🔭 I’m currently working with <a href="https://ankura.com">Ankura</a> as a Data & Technology Associate
 - ✊ I graduated with a Masters degree in Business Analytics at the  <a href="https://www.mccombs.utexas.edu/Master-of-Science-in-Business-Analytics/Academics/Curriculum">McCombs School of Business</a> in May 2021
 - 💬 Ask me about the math that works behind the scenes on ML models (gradient descent, linear algebra, statistics, etc.)
 - ⚡ Fun facts: Grew up in France, <a href="https://guide.wisc.edu/undergraduate/letters-science/astronomy/astronomy-physics-bs/">Astro-physics</a> major in undergrad, love to rock climb
