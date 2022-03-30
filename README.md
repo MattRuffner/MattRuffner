@@ -5,7 +5,8 @@
 - ✊ I graduated with a Masters degree in Business Analytics at the  <a href="https://www.mccombs.utexas.edu/Master-of-Science-in-Business-Analytics/Academics/Curriculum">McCombs School of Business</a> in May 2021
 - 💬 Ask me about the math that works behind the scenes on ML models (gradient descent, linear algebra, statistics, etc.)
 - ⚡ Fun facts: Grew up in France, <a href="https://guide.wisc.edu/undergraduate/letters-science/astronomy/astronomy-physics-bs/">Astro-physics</a> major in undergrad, love to rock climb
-- 📫 How to reach me: [<img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][blog]<a href="linkedin.com/in/matthew-ruffner-data-analytics" class="icon fa-linkedin">
+- 📫 How to reach me: [<img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][blog][blog]: linkedin.com/in/matthew-ruffner-data-analytics
+<a href="linkedin.com/in/matthew-ruffner-data-analytics" class="icon fa-linkedin">
     										<span class="label">LinkedIn</span>
  									    </a> , <a href="matthewruffner@gmail.com" class="icon fa-envelope">
 										<span class="label">Email</span>
