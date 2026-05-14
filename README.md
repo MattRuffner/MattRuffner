@@ -1,7 +1,7 @@
 ## Hello world, I'm Matt 👋
 
 - 😄 Pronouns: he/him
-- 🔭 I love to travel. Recent destinations include: Iceland, Costa Rica, Thailand, Cambodia, Vietnam, Colombia, Ecuador, and Québec! Ask me about my trips :)
+- 🔭 I love to travel. Recent destinations include: Iceland, Costa Rica, Thailand, Cambodia, Vietnam, Colombia, Ecuador, and Québec! Ask me about my trips!
 - 👨‍💻 I currently work at <a href="https://www.horizonmedia.com/">Horizon Media</a> as a Senior Analyst in the Advanced Analytics department
 - ✊ I graduated with a Masters degree in Business Analytics from the  <a href="https://www.mccombs.utexas.edu/Master-of-Science-in-Business-Analytics/Academics/Curriculum">McCombs School of Business</a> in May 2021
 - 💬 Ask me about the math that works behind the scenes on ML models (gradient descent, linear algebra, statistics, etc.)
